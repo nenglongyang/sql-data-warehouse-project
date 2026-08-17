@@ -10,7 +10,7 @@ This repository contains an end-to-end SQL Data Warehouse and Business Intellige
 
 The project implements the **Medallion Architecture** (Bronze, Silver, Gold):
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/data_architecture.jpg)
 
 1. **Bronze Layer**: Raw data ingestion from CSV source files (ERP & CRM) into SQL Server.
 2. **Silver Layer**: Data cleansing, standardization, and normalization.
